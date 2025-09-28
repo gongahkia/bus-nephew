@@ -2,9 +2,7 @@
 
 # `Bus Nephew`
 
-Interactive real-time transit visualization tool that displays [buses](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/bus_services.html) and [trains](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html) in Singapore using live LTA DataMall APIs.
-
-Inspired by [Mini Metro](https://dinopoloclub.com/games/mini-metro/)'s minimalist design. Built to learn [this stack](#stack) and enable hardware integration for IoT transit displays.
+Interactive real-time transit visualization tool that displays [buses](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/bus_services.html) and [trains](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html) in Singapore using Live [LTA DataMall APIs](https://datamall.lta.gov.sg/content/datamall/en.html).
 
 ## Stack
 
@@ -145,10 +143,6 @@ The application uses several LTA DataMall endpoints:
 * **Bus Stops**: Stop locations and details
 * **Train Alerts**: MRT/LRT service disruptions
 
-## Reference
-
-Built for Singapore's public transport system using open government data. Inspired by the geometric elegance of Mini Metro's transit visualization.
-
 ## Legal Disclaimer
 
 ### For Informational Purposes Only
@@ -168,3 +162,11 @@ Users access and rely on Bus Nephew at their own risk. Transit information may b
 Hardware integration features are provided as-is for educational and experimental purposes. Users are responsible for ensuring proper setup and safe operation of any connected devices.
 
 This project is created and maintained by [Gabriel Ong](mailto:gabrielzmong@gmail.com).
+
+## References
+
+`Bus Nephew`'s Web App display was largely inspired by [Mini Metro](https://dinopoloclub.com/games/mini-metro/)'s minimalist design. 
+
+<div align="center">
+  <img src="./asset/logo/metro.webp" width="75%">
+</div>
