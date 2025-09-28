@@ -242,6 +242,10 @@ Users access and rely on Bus Nephew at their own risk. Transit information may b
 
 Hardware integration features are provided as-is for educational and experimental purposes. Users are responsible for ensuring proper setup and safe operation of any connected devices.
 
+## Contact
+
+This project is created and maintained by Gabriel Ong. Please contact him at [gabrielzmong@gmail.com](mailto:gabrielzmong@gmail.com).
+
 ## Reference
 
 `Bus Nephew`'s Web App display was largely inspired by [Mini Metro](https://dinopoloclub.com/games/mini-metro/)'s minimalist design.
@@ -249,7 +253,3 @@ Hardware integration features are provided as-is for educational and experimenta
 <div align="center">
   <img src="./asset/logo/metro.webp" width="75%">
 </div>
-
-## Contact
-
-This project is created and maintained by Gabriel Ong. Please contact him at [gabrielzmong@gmail.com](mailto:gabrielzmong@gmail.com).
